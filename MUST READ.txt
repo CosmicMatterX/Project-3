@@ -1,0 +1,2 @@
+Tried to add delete function to game
+Couldn't get it to work
